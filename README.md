@@ -30,39 +30,38 @@ The chatbot responds to predefined user inputs using conditional statements and 
 
 ## 📂 Project Structure
 
+```text
 Rule-Based-Chatbot/
 │
 ├── .gitignore
 ├── LICENSE
 ├── README.md
 ├── chatbot.py
-├── output-screenshot.png 
+├── output-screenshot.png
 └── requirements.txt
+```
 
 ---
 
 ## ▶️ Installation
 
-Clone the repository
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/TejaswhiKY/Rule-Based-Chatbot.git
 ```
 
-Go to the project folder
+### 2. Navigate to the project directory
 
 ```bash
 cd Rule-Based-Chatbot
 ```
 
-Run the chatbot
+### 3. Run the chatbot
 
 ```bash
 python chatbot.py
 ```
-
----
-
 ## 💬 Supported Commands
 
 - hello
