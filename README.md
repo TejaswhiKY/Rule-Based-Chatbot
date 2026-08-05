@@ -138,8 +138,6 @@ Chatbot Closed Successfully.
 
 Electronics & Communication Engineering Student
 
-GitHub: https://github.com/TejaswhiKY
-
 ---
 
 ⭐ If you like this project, give it a Star.
