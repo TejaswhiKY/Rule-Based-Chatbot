@@ -30,15 +30,14 @@ The chatbot responds to predefined user inputs using conditional statements and 
 
 ## 📂 Project Structure
 
-```
 Rule-Based-Chatbot/
 │
-├── chatbot.py
-├── README.md
-├── requirements.txt
+├── .gitignore
 ├── LICENSE
-└── .gitignore
-```
+├── README.md
+├── chatbot.py
+├── output-screenshot.png 
+└── requirements.txt
 
 ---
 
